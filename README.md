@@ -1,4 +1,5 @@
-# Hi, I'm Dinh Phu Nguyen 👋
+# Hi, I'm Dinh Phu Nguyen 
+
 
 Computer Science student at **Swinburne University of Technology (Hanoi campus)**, interested in AI/ML engineering, cloud and full-stack web development.
 
